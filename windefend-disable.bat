@@ -1,5 +1,3 @@
-rem run this twice with admin rights
-
 reg add "HKLM\Software\Microsoft\Windows Defender\Features" /v "TamperProtection" /t REG_DWORD /d "0" /f
 
 reg delete "HKLM\Software\Policies\Microsoft\Windows Defender" /f

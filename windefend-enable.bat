@@ -1,5 +1,3 @@
-rem run this twice with admin rights
-
 rem Enable Tamper Protection back
 reg add "HKLM\Software\Microsoft\Windows Defender\Features" /v "TamperProtection" /t REG_DWORD /d "1" /f
 

@@ -12,7 +12,7 @@
 Run "windefend.py disable" to disable Windows Defender
 Run "windefend.py enable" to enable Windows Defender
 
-### Requirements
+### Requirements for the python script
 
 1. Python
 2. pip install elevate
@@ -20,7 +20,6 @@ Run "windefend.py enable" to enable Windows Defender
 ## Instructions
 
 1. Disable Tamper Protection manually before running.
-
 2. Run script with admin rights twice to disable/enable everything.
 
 ## Some additional stuff you may want
