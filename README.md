@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. You may need to disable Tamper Protection.
+1. Disable Tamper Protection.
 2. Run Disable.bat/Enable.bat to disable/enable Windows Defender.
 3. (Optional) If you don't want to use Python, you can run files in "scripts" folder manually (disable needs to be ran twice).
 
