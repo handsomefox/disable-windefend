@@ -1,3 +1,3 @@
 pip install elevate
-cd bat
+cd scripts
 windefend.py disable
