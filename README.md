@@ -13,8 +13,9 @@
 
 ## Instructions
 
-1. Run Disable.bat/Enable.bat to disable/enable Windows Defender.
-2. You may also need to disable Tamper Protection before running the scripts.
+1. You may need to disable Tamper Protection.
+2. Run Disable.bat/Enable.bat to disable/enable Windows Defender.
+3. (Optional) If you don't want to use Python, you can run files in "bat" folder manually (disable needs to be ran twice).
 
 ## Some additional stuff you may want
 
