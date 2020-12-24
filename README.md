@@ -9,13 +9,11 @@
 
 ## Requirements
 
-1. Python
+1. Tamper protection needs to be disabled
 
 ## Instructions
 
-1. Disable Tamper Protection.
-2. Run Disable.bat/Enable.bat to disable/enable Windows Defender.
-3. (Optional) If you don't want to use Python, you can run files in "scripts" folder manually (disable needs to be ran twice).
+1. Run Disable.bat/Enable.bat twice to disable/enable Windows Defender.
 
 ## Some additional stuff you may want
 
